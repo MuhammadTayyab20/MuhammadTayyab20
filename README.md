@@ -65,12 +65,13 @@ I work where **hardware meets software** — designing networks, building microc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadTayyab20&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTayyab20&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadTayyab20&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadTayyab20&theme=github_dark" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTayyab20&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadTayyab20&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadTayyab20&theme=github_dark&utcOffset=5" />
 
 </div>
 
