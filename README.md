@@ -1,48 +1,93 @@
-<h1 align="center">Hi, I'm Muhammad Tayyab 👋</h1>
+<div align="center">
 
+<!-- ============ ANIMATED HEADER BANNER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,50:00ff9c,100:001a0d&height=200&section=header&text=Muhammad%20Tayyab&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20Networks%20%C2%B7%20Embedded%20Systems%20%C2%B7%20IoT&descSize=18&descAlignY=58&descColor=ffffff" />
 
-### 🚀 About Me
+<!-- ============ TYPING ANIMATION ============ -->
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=00FF9C&center=true&vCenter=true&width=650&height=55&lines=Hi%2C+I'm+Muhammad+Tayyab+%F0%9F%91%8B;Computer+Engineer;Networks+%C2%B7+Embedded+%C2%B7+IoT;Building+real-world+systems)
 
-I'm a Computer Engineering graduate passionate about building things that bridge **software and hardware**. My work spans full-stack web development, IoT systems, and embedded firmware — solving real-world problems with practical engineering.
+<!-- ============ PROFILE VIEWS + BADGES ============ -->
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadTayyab20&label=Profile%20Views&color=00ff9c&style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Networks%20%26%20Embedded-00ff9c?style=flat-square&labelColor=001a0d)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00ff9c?style=flat-square&labelColor=001a0d)
 
-- 🔭 **Currently working on:** Refining my Final Year Project — an offline LoRa mesh communication system for disaster scenarios
-- 🌱 **Currently learning:** Cloud platforms, advanced embedded systems, and modern web frameworks
-- 💼 **Recent experience:** Software Development Intern at **Pakistan International Airlines (PIA)** — full-stack web development on enterprise systems
-- 🎯 **Looking for:** Opportunities in **Full-Stack Development**, **IoT Engineering**, or **Embedded Systems**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## `> about`
 
-**Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+```python
+class MuhammadTayyab:
+    def __init__(self):
+        self.role     = "Computer Engineer"
+        self.school   = "Bahria University"
+        self.focus    = ["Networking", "Embedded Systems", "IoT", "Automation"]
+        self.also     = ["Full-Stack Web", "Database Systems"]
+        self.mindset  = "Where hardware meets software"
+
+    def what_i_do(self):
+        return "Design networks, build embedded systems, and full-stack web apps"
+```
+
+I work where **hardware meets software** — designing networks, building microcontroller-driven systems, and turning real-world problems into working automation.
+
+---
+
+## `> tech_stack`
+
+<div align="center">
+
+### Networking & Embedded
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP8266%2FESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/IoT-00ff9c?style=for-the-badge&logo=raspberrypi&logoColor=black)
+
+### Languages & Software
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Web Development**
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Web & Full-Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Databases**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</div>
 
-**IoT & Embedded**
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-39AC4F?style=for-the-badge&logo=loradevelopers&logoColor=white)
+---
 
-**Tools**
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## `> github_stats`
 
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadTayyab20&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTayyab20&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTayyab20&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
+
+</div>
+
+---
+
+## `> activity`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTayyab20&theme=high-contrast&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,50:00ff9c,100:001a0d&height=120&section=footer&text=Building%20systems%20that%20work%20in%20the%20real%20world&fontSize=16&fontColor=00ff9c&fontAlignY=70" />
+
+</div>
