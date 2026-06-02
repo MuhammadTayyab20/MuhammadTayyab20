@@ -61,21 +61,6 @@ I work where **hardware meets software** — designing networks, building microc
 
 ---
 
-## `> github_stats`
-
-<div align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadTayyab20&theme=github_dark" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadTayyab20&theme=github_dark" />
-
-<br/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadTayyab20&theme=github_dark" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadTayyab20&theme=github_dark&utcOffset=5" />
-
-</div>
-
----
 
 ## `> activity`
 
