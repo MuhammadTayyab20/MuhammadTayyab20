@@ -75,9 +75,8 @@ I work where **hardware meets software** — designing networks, building microc
 ---
 ## `> stats`
 <div align="center">
-<img width="48%" src="https://streak-stats.demolab.com?user=MuhammadTayyab20&theme=dark&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&border=00ff9c" />
-&nbsp;
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTayyab20&layout=donut-vertical&bg_color=0d1117&title_color=00ff9c&text_color=ffffff&border_color=00ff9c" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadTayyab20&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadTayyab20&theme=github_dark" />
 </div>
 ---
 
